@@ -1,0 +1,20 @@
+/Dashboards
+    /Business_Analytics_Dashboard
+        dashboard.pbix
+        dataset.csv
+        README.md
+
+    /Sales_Financial_Dashboard
+        dashboard.pbix
+        dataset.csv
+        README.md
+
+    /Customer_Segmentation_Dashboard
+        dashboard.pbix
+        dataset.csv
+        README.md
+
+    /Operations_Performance_Dashboard
+        dashboard.pbix
+        dataset.csv
+        README.md
